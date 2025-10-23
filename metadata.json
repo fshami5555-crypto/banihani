@@ -1,0 +1,5 @@
+{
+  "name": "Bani Hani Cars Dashboard",
+  "description": "An internal management system for Bani Hani Cars Exhibition, featuring user management, customer and vehicle inventory control, and a comprehensive sales system with cash and installment payment options.",
+  "requestFramePermissions": []
+}
